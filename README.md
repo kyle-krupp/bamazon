@@ -28,7 +28,7 @@ An Amazon-like store front using Node.js and MySQL.
       * It will also update the product sales in the department table.
 
 
-[image:107FF525-DAB5-438A-B0A0-D32D52D80305-1802-00001864FA757BC2/Screen Shot 2018-09-15 at 9.01.12 AM.png]
+(https://github.com/kyle-krupp/bamazon/blob/master/code/Screen%20Shot%202018-09-15%20at%209.01.12%20AM.png?raw=true)
 
 
 
