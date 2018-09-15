@@ -27,7 +27,6 @@ An Amazon-like store front using Node.js and MySQL.
       * If the purchase goes through, it updates the stock quantity to reflect the purchase.
       * It will also update the product sales in the department table.
 
-![Image of Yaktocat]
 
 (https://github.com/kyle-krupp/bamazon/blob/master/code/Screen%20Shot%202018-09-15%20at%209.01.12%20AM.png)
 
