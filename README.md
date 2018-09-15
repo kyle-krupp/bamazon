@@ -28,7 +28,7 @@ An Amazon-like store front using Node.js and MySQL.
       * It will also update the product sales in the department table.
 
 
-(https://github.com/kyle-krupp/bamazon/blob/master/code/Screen%20Shot%202018-09-15%20at%209.01.12%20AM.png)
+(https://github.com/kyle-krupp/bamazon/blob/master/code/Screen%20Shot%202018-09-15%20at%209.01.12%20AM.png?raw=true)
 
 
 
@@ -67,8 +67,7 @@ An Amazon-like store front using Node.js and MySQL.
 
     * If the manager selects `End Session`, it ends the session and doesn't go back to the menu.
 
->>>>>>> 50bfe35332d8e13c487168722896d07539c58169
-[image:26C1EFAA-BC83-4300-A32E-ADA682C416EC-1802-00001B32807C3A73/Screen Shot 2018-09-15 at 11.34.06 AM.png]
+(https://github.com/kyle-krupp/bamazon/blob/master/code/Screen%20Shot%202018-09-15%20at%2011.34.06%20AM.png?raw=true)
 
 
 
@@ -89,10 +88,3 @@ An Amazon-like store front using Node.js and MySQL.
 <<<<<<< HEAD
 - Create a MYSQL database called 'BAMazon', reference schema.sql
 ```
-=======
-- Create a MYSQL database called 'Bamazon', reference schema.sql
-=======
-- Create a MYSQL database called 'BAMazon', reference schema.sql
->>>>>>> 50bfe35332d8e13c487168722896d07539c58169
-```
->>>>>>> b9ddc8e74598291dceb6b365a351328ce6250fa7
