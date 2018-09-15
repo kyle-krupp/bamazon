@@ -61,5 +61,5 @@ An Amazon-like store front using Node.js and MySQL.
 
 ```
 - Node.js - Download the latest version of Node https://nodejs.org/en/
-- Create a MYSQL database called 'BAMazon', reference schema.sql
+- Create a MYSQL database called 'Bamazon', reference schema.sql
 ```
