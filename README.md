@@ -43,6 +43,7 @@ An Amazon-like store front using Node.js and MySQL.
         * Add to Inventory
         * Add New Product
         * End Session
+<<<<<<< HEAD
 
     * If the manager selects `View Products for Sale`, it lists all of the products in the store including all of their details.
 
@@ -54,6 +55,19 @@ An Amazon-like store front using Node.js and MySQL.
 
     * If the manager selects `End Session`, it ends the session and doesn't go back to the menu.
 
+=======
+
+    * If the manager selects `View Products for Sale`, it lists all of the products in the store including all of their details.
+
+    * If the manager selects `View Low Inventory`, it'll list all the products with less than five items in its StockQuantity column.
+
+    * If the manager selects `Add to Inventory`, it allows the manager to select a product and add inventory.
+
+    * If the manager selects `Add New Product`, it allows the manager to add a new product to the store.
+
+    * If the manager selects `End Session`, it ends the session and doesn't go back to the menu.
+
+>>>>>>> 50bfe35332d8e13c487168722896d07539c58169
 [image:26C1EFAA-BC83-4300-A32E-ADA682C416EC-1802-00001B32807C3A73/Screen Shot 2018-09-15 at 11.34.06 AM.png]
 
 
@@ -72,9 +86,13 @@ An Amazon-like store front using Node.js and MySQL.
 ```
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Create a MYSQL database called 'BAMazon', reference schema.sql
 ```
 =======
 - Create a MYSQL database called 'Bamazon', reference schema.sql
+=======
+- Create a MYSQL database called 'BAMazon', reference schema.sql
+>>>>>>> 50bfe35332d8e13c487168722896d07539c58169
 ```
 >>>>>>> b9ddc8e74598291dceb6b365a351328ce6250fa7
