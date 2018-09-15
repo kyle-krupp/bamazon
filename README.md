@@ -55,7 +55,7 @@ An Amazon-like store front using Node.js and MySQL.
 
     * If the manager selects `End Session`, it ends the session and doesn't go back to the menu.
 
-=======
+---------------------
 
     * If the manager selects `View Products for Sale`, it lists all of the products in the store including all of their details.
 
